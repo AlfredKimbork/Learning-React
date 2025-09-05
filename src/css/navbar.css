@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    padding: 1.5rem .75rem;
+  
+    border-bottom: 1px solid #ededed;
+  }
+  
+  h1 {
+    font-size: 2.25em;
+    color: #f1356d;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+  }
+  
+  li a {
+    color: #8d8d8d;
+    text-decoration: none;
+    font-size: 1.25em;
+  }
+ 
+  .create {
+    color: #fff;
+    background-color: #f1356d;
+    padding: .5rem .75rem;
+    border-radius: .75rem
+  }

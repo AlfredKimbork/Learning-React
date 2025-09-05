@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+}
+
+.app {
+  max-width: 50rem;
+  margin: auto;
+}
+
+h2 {
+  margin: 3rem .75rem;
+  font-size: 2rem;
+}
+

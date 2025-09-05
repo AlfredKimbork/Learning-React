@@ -15,3 +15,24 @@ h2 {
   font-size: 2rem;
 }
 
+.title {
+  font-size: 1.75rem;
+  margin: 0 2.25rem .5rem;
+}
+
+.blog-preview {
+  margin: 0 .75rem 1rem;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid #ededed;
+  border-radius: 1rem;
+}
+.blog-preview:hover {
+  box-shadow: 0 0 5px #ededed;
+}
+
+.blog-preview h4 {
+  font-size: 1.5rem;
+  color: #f1356d;
+  margin-bottom: 1rem;
+}
+

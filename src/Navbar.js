@@ -1,6 +1,7 @@
 import './css/navbar.css'
+
 const Navbar = () => {
-    return (
+    return ( 
         <nav className="navbar">
             <h1>The Blog</h1>
             <ul>

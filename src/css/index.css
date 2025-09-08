@@ -17,7 +17,7 @@ h2 {
 
 .title {
   font-size: 1.75rem;
-  margin: 0 2.25rem .5rem;
+  margin: 1rem 2.25rem;
 }
 
 .blog-preview {
@@ -34,5 +34,20 @@ h2 {
   font-size: 1.5rem;
   color: #f1356d;
   margin-bottom: 1rem;
+}
+
+.blog-desc {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+.delete {
+  color: #fff;
+  background-color: #f1356d;
+  border: none;
+  padding: .5rem .75rem;
+  border-radius: .75rem
 }
 

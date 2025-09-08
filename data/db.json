@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My first webpage!", 
+            "body": "Lorem ipsum...", 
+            "author": "William", 
+            "id": 1
+        }, 
+        {
+            "title": "Why crabs are the best animal.", 
+            "body": "Lorem ipsum...", 
+            "author": "Bertil", 
+            "id": 2
+        },   
+        {
+            "title": "Can you make a cheap bike good?", 
+            "body": "Lorem ipsum...",
+            "author": "William",
+            "id": 3
+        } 
+    ]
+}
